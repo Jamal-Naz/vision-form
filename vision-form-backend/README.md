@@ -1,4 +1,4 @@
-Vision Form
+Vision Form Backend
 
 This is an Express backend project integrated with Prisma for managing users. It provides a registration endpoint to add new users to the database.
 
